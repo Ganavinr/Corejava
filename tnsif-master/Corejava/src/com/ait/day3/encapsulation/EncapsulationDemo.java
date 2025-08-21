@@ -6,7 +6,7 @@ public class EncapsulationDemo {
 		EncapsulationEx obj = new EncapsulationEx();
 		obj.setSerialNum(20);
 		obj.setAge(20);
-		obj.setName("Bharath V");
+		obj.setName("Ganavi N R");
 		//direct access
 		System.out.println("USN:"+obj.getSerialNum());
 		System.out.println("Age:"+obj.getAge());

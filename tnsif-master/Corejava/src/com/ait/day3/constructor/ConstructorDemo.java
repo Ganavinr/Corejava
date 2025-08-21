@@ -4,7 +4,7 @@ public class ConstructorDemo {
 
 	public static void main(String[] args) {
 		ConstructorEx obj=new ConstructorEx();
-		obj.setCustomerName("Harshavardhan");
+		obj.setCustomerName("Ganavi");
 		System.out.println(obj);
 		
 	}
